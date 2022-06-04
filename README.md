@@ -12,7 +12,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/dropout1337/Discord-iOS">
-    <img src="https://discord.com/assets/2f71ab5383293f63985ac8d5c632b3d4.png" alt="Logo" width="120" height="120">
+    <img src="https://discord.com/assets/9f6f9cd156ce35e2d94c0e62e3eff462.png" alt="Logo" width="120" height="120">
   </a>
   
   <h2 align="center">Discord-iOS</h3>
